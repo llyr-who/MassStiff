@@ -1,17 +1,14 @@
 # MassStiff FEM Solver
 
 For my masters program we had to complete a handfull of so-called "special topics". We were allocated roughly two weeks
-worth of time to complete these special topics (and write up!). For one of my special topics I decided to build a FEM package from
-scratch. That is, both the FEM solver (obtaining the FEM solution) and displaying such a solution (using OpenGL and
-X11).
+worth of time to complete these special topics (and write up!). For one of my special topics I decided to build a FEM package.
 
 As time was limited there are certain choices that were made that were no great. For example, I knew nothing about
 computational geometry going into this special topic and since O'Rouke places a lot of time into Ear-Clipping I jumped
 in with Ear-Clipping. (TERRIBLE DECISION!)
 
-
 Regardless, it was a lot of work to develop something like this in such a short time frame. If the interest is there I
-would like to work on this further (writing FEM packages), so please feel free to contact me.
+would like to work on this further (writing new FEM packages), so please feel free to contact me.
 
 As I was short on space there is an accociated YouTube channel that was linked to help show the results
 
