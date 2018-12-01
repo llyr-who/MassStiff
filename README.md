@@ -1,7 +1,7 @@
 # MassStiff FEM Solver
 
 For my master's program we had to complete a handful of so-called "special topics". We were allocated roughly two weeks
-worth of time to complete these special topics (including write up!). For one of my special topics I decided to build a FEM package.
+worth of time to complete these special topics (including write up, which is listed as cppspecialtopic.pdf). For one of my special topics I decided to build a FEM package.
 
 As time was limited there are certain choices that were made that were not great. For example, I knew nothing about
 computational geometry going into this special topic and since O'Rouke places a lot of time into Ear-Clipping I jumped
