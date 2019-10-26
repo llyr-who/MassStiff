@@ -8,7 +8,7 @@ computational geometry going into this special topic and since O'Rouke places a 
 in with Ear-Clipping. (TERRIBLE DECISION!)
 
 Regardless, it was a lot of work to develop something like this in such a short time frame. If the interest is there, I
-would like to work on this further (writing new FEM packages), so please feel free to contact me. <a href="mailto:anthonygoddard5678 AT hotmail -- DOT -- com">Email Me!</a>
+would like to work on this further (writing new FEM packages), so please feel free to open an issue.
 
 As I was short on space there is an accociated <a href="https://www.youtube.com/channel/UCOSpHsqVj2jfoL8hdNlRYrg
 " target="_blank"> YouTube channel</a> that was linked to help show the results.
