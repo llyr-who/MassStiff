@@ -13,13 +13,19 @@ would like to work on this further (writing new FEM packages), so please feel fr
 As I was short on space there is an accociated <a href="https://www.youtube.com/channel/UCOSpHsqVj2jfoL8hdNlRYrg
 " target="_blank"> YouTube channel</a> that was linked to help show the results.
 
+At this stage I am revisiting the project to refactor and introduce modern C++ features.
+
 In order to get this working in Fedora:
 
-    First we need to run:
         yum install /usr/include/X11/xlib.h
         yum install libXtst-devel
         yum install libXrandr-devel
         yum install mesa-libGL-devel
         yum groupinstall "X Software Development"
 
-To get things going in Ubuntu there are similar commands.
+To get things going in Ubuntu: 
+
+        sudo apt-get install libx11-dev
+        sudo apt-get install libxrender-dev
+        sudo apt-get install mesa-common-dev
+        sudo apt-get install libglu1-mesa-dev
