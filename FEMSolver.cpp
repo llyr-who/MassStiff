@@ -45,8 +45,8 @@ void FEMSolver::init(Mesh& mesh)
 void FEMSolver::initialSetup(Mesh&mesh)
 {
     timestep = 0;
-    intervalEnd = 1;
-    numberOfTimeSteps = 100;
+    intervalEnd = 3;
+    numberOfTimeSteps = 300;
     dt = (1.0*intervalEnd/numberOfTimeSteps);
 
     // Used to store the derivative of the solution.
