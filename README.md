@@ -7,8 +7,7 @@ As time was limited there are certain choices that were made that were not great
 computational geometry going into this special topic and since O'Rouke places a lot of time into Ear-Clipping I jumped
 in with Ear-Clipping. (TERRIBLE DECISION!)
 
-Regardless, it was a lot of work to develop something like this in such a short time frame. If the interest is there, I
-would like to work on this further (writing new FEM packages), so please feel free to open an issue.
+Regardless, it was a lot of work to develop something like this in such a short time frame.
 
 As I was short on space there is an accociated <a href="https://www.youtube.com/channel/UCOSpHsqVj2jfoL8hdNlRYrg
 " target="_blank"> YouTube channel</a> that was linked to help show the results.
