@@ -13,7 +13,7 @@ would like to work on this further (writing new FEM packages), so please feel fr
 As I was short on space there is an accociated <a href="https://www.youtube.com/channel/UCOSpHsqVj2jfoL8hdNlRYrg
 " target="_blank"> YouTube channel</a> that was linked to help show the results.
 
-At this stage I am revisiting the project to refactor and introduce modern C++ features.
+At this stage I am revisiting the project to refactor and introduce modern C++ features. This is to be done in a NEW repo. This repo should remain untouched and is kept for reference. 
 
 In order to get this working in Fedora:
 
